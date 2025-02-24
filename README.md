@@ -143,5 +143,5 @@ Country Info & Calendar App is an open source project licensed under the MIT Lic
 
 ### Stay in Touch
 
-- Author: Danillo
-- GitHub: https://[github.com/DanilloMonteiro/Country-Info-App---Test](https://github.com/DanilloMonteiro/Country-Info-App---Test)
+- Author: Danillo Monteiro
+- GitHub: https://[github.com/DanilloMonteiro/Country-Info-App-Test.git](https://github.com/DanilloMonteiro/Country-Info-App-Test.git)
