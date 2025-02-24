@@ -120,14 +120,13 @@ GET -> /users/:id
 
 - Retrieves user details by their UUID.
 
-# development mode with hot-reloading
+# Development mode with hot-reloading
 
 npm run start:dev
 
-# production mode
+# Production mode
 
 npm run start:prod
-Running Tests
 
 # Resources
 
